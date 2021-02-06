@@ -1,0 +1,6 @@
+<view class="img">
+  <image src="../../images/bookbox.png"></image>
+  <image src="../../images/title.png"></image>
+</view>
+<button open-type="getUserInfo" bindgetuserinfo="bindGetUserInfo">授权</button>
+<i-message id="message" />

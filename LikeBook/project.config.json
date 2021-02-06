@@ -39,7 +39,7 @@
   },
   "appid": "wxd13cd8f778c55aea",
   "projectname": "LikeBook",
-  "libVersion": "2.14.1",
+  "libVersion": "2.15.0",
   "condition": {
     "search": {
       "list": []

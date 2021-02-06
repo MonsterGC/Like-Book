@@ -1,0 +1,19 @@
+image {
+  width: 200rpx;
+  height: 200rpx;
+}
+
+button {
+  background: #2d8cf0;
+  color: #fff;
+}
+
+.img {
+  width: 200rpx;
+  height: 200rpx;
+  margin: 200rpx auto;
+}
+
+.img image:last-child{
+  height: 100rpx;
+}

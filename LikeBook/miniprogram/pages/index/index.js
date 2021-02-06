@@ -1,12 +1,10 @@
-//index.js
-const app = getApp()
-
+// pages/index/index.js
+var app = getApp();
 Page({
   data: {
     
   },
-
-  onLoad: function() {
-    
+  formSubmit:function(){
+    console.log(123);
   }
 })
